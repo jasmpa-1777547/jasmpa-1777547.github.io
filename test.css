@@ -1,81 +1,20 @@
-body{
-    background-image: url('dark_wood.png')
-}
-
-#Header{
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    border: solid 8px black;
-    background-color: #8E41D5;
+legend {
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 3px;
+    color: red;
     text-align: center;
 }
 
-p{
-    color:white;
-    font-family: "Arial";
-    font-weight: bold;
+body {
+    background-image: url('beige_background.png');
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h3{
-    color: #FFBC00;
-    font-size: 40px;
-    font-family: "Passion One";
-    margin-bottom: 0px;
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#Header h1{
-    font-size: 60px;
-    font-family: "Passion One";
-    color: #FFBC00;
-    font-weight: bold;
-}
-
-#LeftNav{
+img {
     float: left;
-    width: 400px;
-    border: solid 8px black;
-    text-align: center;
-    padding-bottom: 8px;
-    background-color: #8E41D5
-}
-
-#LeftNav ul{
-    color: white;
-}
-
-a{
-    color: white;
-    font-weight: bold;
-    font-size: 24px;
-}
-
-ul{
-    list-style-type: none;
-    padding-left: 0px;
-}
-
-
-#Content {
-    width: 700 px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    border: solid 8px black;
-    text-align: center;
-    padding: 15px;
-    background-color: #8E41D5;
-}
-
-#Footer {
-    text-align: center;
-    border: solid 8px black;
-    background-color: #8E41D5;
-}
-
-#bow{
-    color: #FFBC00;
-    font-weight: bold;
-    font-size: 20px;
 }
